@@ -1,6 +1,7 @@
 # Climate-Analysis-API
 ## Objective:
-Conduct a climate Analysis on Honolulu, Hawaii and share my analytical skills with the community by providing a climate analysis api !
+Conduct a climate analysis on Honolulu, Hawaii and share my analytical skills with the community by providing a climate analysis api !
+
 ![surfs-up](images/surfs-up.jpeg)
 
 ## Step 1 - Data Engineering
