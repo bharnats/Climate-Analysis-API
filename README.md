@@ -16,7 +16,7 @@ The climate data for Hawaii is provided through two CSV files. I used Python and
 
 
 ## Step 2 - Database Engineering
-Used SQLAlchemy to model the table schemas and created a sqlite database for the tables. one table for measurements and one for stationsare created.
+Used SQLAlchemy to model the table schemas and created a sqlite database for the tables. One table for measurements and one for stations are created.
 
 * Created a Jupyter Notebook called `database_engineering.ipynb` and used this to complete all of the Database Engineering work.
 
