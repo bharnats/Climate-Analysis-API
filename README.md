@@ -77,7 +77,7 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration on 
   
   ### Temperature Analysis
   
-  ![temp_analysis](temp_analysis.PNG)
+  ![temp_analysis](images/temp_analysis.PNG)
 
 * Wrote a function called `calc_temps` that will accept a start date and end date in the format `%Y-%m-%d` and return the minimum, average, and maximum temperatures for that range of dates.
 
