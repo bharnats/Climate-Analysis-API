@@ -55,8 +55,6 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration on 
 
 * Plotted the results using the DataFrame `plot` method.
 
-<center><img src='images/precip.png' /></center>
-
 * Used Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
@@ -76,8 +74,6 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration on 
   * Filtered by the station with the highest number of observations.
 
   * Plotted the results as a histogram with `bins=12`.
-
-  <center><img src='images/temp_hist.png' height="400px" /></center>
   
   ### Temperature Analysis
   
@@ -92,8 +88,6 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration on 
   * Used the average temperature as the bar height.
 
   * Used the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
-
-<center><img src='images/temp_avg.png' height="400px"/></center>
 
 ## Step 4 - Climate App
 
